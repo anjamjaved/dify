@@ -29,7 +29,7 @@
     "@floating-ui/react": "^0.25.2",
     "@formatjs/intl-localematcher": "^0.5.4",
     "@headlessui/react": "^1.7.13",
-    "@heroicons/react": "^2.0.16",
+    "@heroicons/react": "^2.2.0",
     "@hookform/resolvers": "^3.3.4",
     "@lexical/react": "^0.16.0",
     "@mdx-js/loader": "^2.3.0",
